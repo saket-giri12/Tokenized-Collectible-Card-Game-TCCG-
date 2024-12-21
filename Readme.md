@@ -5,6 +5,7 @@ The Tokenized Collectible Card Game is a blockchain-based trading card game that
 
 ## Contract Address
 0xE64C52b958264237bd998c99ee6A5AC888D11b00
+![Screenshot 2024-12-21 143349](https://github.com/user-attachments/assets/3bed08f9-6e5f-49b8-aa55-9cca53c78fb6)
 
 ## Project Vision
 Our vision is to revolutionize the digital collectible card game space by providing true ownership and transparent trading mechanics to players. By leveraging blockchain technology, we aim to create an ecosystem where:
